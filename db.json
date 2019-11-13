@@ -1,6 +1,46 @@
 {
   "movies": [
+    {
+      "id": 1,
+      "title": "The Departed ",
+      "posterPath": "https://images-na.ssl-images-amazon.com/images/I/51%2B%2BLOsomTL._AC_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Titanic",
+      "posterPath": "https://cdn.britannica.com/s:700x500/53/93453-050-1EAA52AD/Leonardo-DiCaprio-Kate-Winslet-Titanic-James-Cameron.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Avengers",
+      "posterPath": "https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXM9FC4/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg"
+    },
+    {
+      "id": 4,
+      "title": "Good Will Hunting",
+      "posterPath": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The 400 Blows",
+      "posterPath": "https://s3.amazonaws.com/criterion-production/films/6419fdfbf3442b70b449e2780ae6ac04/Jli0DzbsLXV9c4V1sPirW4n2Lw5FR8_large.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Big Hero 6",
+      "posterPath": "https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZVNMQ8/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg"
+    }
   ],
   "favourites": [
+    {
+      "id": 1,
+      "title": "Big Hero 6",
+      "posterPath": "https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZVNMQ8/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg"
+    },
+    {
+      "id": 2,
+      "title": "Titanic",
+      "posterPath": "https://cdn.britannica.com/s:700x500/53/93453-050-1EAA52AD/Leonardo-DiCaprio-Kate-Winslet-Titanic-James-Cameron.jpg"
+    }
   ]
 }
